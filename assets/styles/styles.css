@@ -95,7 +95,7 @@ header {
 }
 
 .hamburger.is-active .hamburger__line--1 {
-  transform: translateY(8px) rotate(45deg);
+  transform: translateY(10px) rotate(45deg);
 }
 
 .hamburger.is-active .hamburger__line--2 {
